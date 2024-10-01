@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://swxpnill.github.io/](https://swxpnill.github.io/)
+- 👨‍💻 All of my projects are available at [https://swxpnill.github.io/](https://swxpnill.github.io/swapnil/)
 
 - 📫 How to reach me **swapnilpandit016@gmail.com**
 
