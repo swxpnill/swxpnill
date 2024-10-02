@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swxpnill&label=Profile%20views&color=0e75b6&style=flat" alt="swxpnill" /> </p>
 
-- 🌱 I’m currently learning **React Native, Spring Boot**
+- 🌱 I’m currently learning **React Js, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://swxpnill.github.io/](https://swxpnill.github.io/swapnil/)
 
